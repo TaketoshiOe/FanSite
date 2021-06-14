@@ -10,4 +10,5 @@ class FunsiteApplicationTests {
 	void contextLoads() {
 	}
 
+
 }

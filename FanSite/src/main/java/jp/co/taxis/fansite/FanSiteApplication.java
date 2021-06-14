@@ -8,6 +8,7 @@ public class FanSiteApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(FanSiteApplication.class, args);
+		
 	}
 
 }
